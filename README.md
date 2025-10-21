@@ -1,7 +1,7 @@
 <!-- ===== README.md (Profile) ===== -->
 
 <h1 align="center">Hi 👋, I'm Thanuskanth</h1>
-<h3 align="center">Embedded Intern • Robotics Enthusiast 🤖</h3>
+<h3 align="center">Embedded  • Robotics Enthusiast 🤖</h3>
 <p align="center"><em>B.Eng.Tech (Hons) in Instrumentation & Automation — University of Colombo</em></p>
 
 ---
@@ -62,9 +62,11 @@
 
 <h3>📌 Featured Mini-Projects</h3>
 
-- <strong>ESP32 Weather Indicator (IoT)</strong> — DHT/DS18B20 + cloud upload every minute, basic web dashboard.  
+- <strong>Solar Phone Charging Hub (DI)</strong> — Portable 10–20 W PV panel, MPPT buck, 2S/3S 18650 pack + BMS, 5 V/9 V USB outputs, enclosure in KiCad + 3D print; optional ESP32 telemetry (voltage, current, SOC) to web dashboard.  
+  <em>Repo:</em> <a href="https://github.com/Thanuskanth19/solar-phone-charging-hub">Thanuskanth19/solar-phone-charging-hub</a> <!-- update if different -->
+
 - <strong>Line-Following Robot</strong> — ATmega328P • L298N • 3× IR array • PID tune notes.  
-- <strong>ESP32-CAM Gate Access</strong> — ANPR prototype + mobile control (group project).  
+ 
 
 ---
 
@@ -81,6 +83,7 @@
 </p>
 
 <!-- Tips:
-1) Put your GIF at /assets/thanuskanth.gif (or remove the image block).
-2) Ensure /logos/ icons exist or swap to CDN equivalents.
+1) If the repo link differs, change it above.
+2) You can drop a small system block diagram image at /assets/solar_hub_block.png and showcase it here.
+3) Ensure /logos/ icons exist or swap to CDN equivalents.
 -->
