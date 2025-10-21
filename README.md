@@ -1,5 +1,4 @@
 <!-- ===== README.md (Profile) ===== -->
-<!-- Replace placeholders like {{GITHUB_USERNAME}}, {{YOUR_EMAIL}}, {{LINKEDIN_URL}} -->
 
 <h1 align="center">Hi 👋, I'm Thanuskanth</h1>
 <h3 align="center">Embedded Intern • Robotics Enthusiast 🤖</h3>
@@ -7,7 +6,7 @@
 
 ---
 
-🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision for Robotics</strong>  
+🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision for Robotics</strong><br/>
 🔧 Recent work: <strong>ESP32 Weather Indicator (1-min uploads), Line-Following Robot (ATmega328P + L298N + 3× IR)</strong>
 
 ---
@@ -18,14 +17,11 @@
 
 <h3>🔗 Connect with me</h3>
 <p align="left">
-  <a href="mailto:{smthanu19@gmail.com}" target="_blank">
+  <a href="mailto:smthanu19@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="{https://github.com/Thanuskanth19}" target="_blank">
+  <a href="https://www.linkedin.com/in/thanuskanth-mahalingam-b59715386" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@{www.linkedin.com/in/thanuskanth-mahalingam-b59715386}" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" height="30" width="40" />
   </a>
 </p>
 
@@ -74,18 +70,17 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{GITHUB_USERNAME}}&layout=compact&bg_color=0d1117&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username={{GITHUB_USERNAME}}&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanuskanth19&layout=compact&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thanuskanth19&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
 </div>
 
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username={{GITHUB_USERNAME}}&label=Profile%20views&color=0e75b6&style=flat" alt="{{GITHUB_USERNAME}} profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Thanuskanth19&label=Profile%20views&color=0e75b6&style=flat" alt="Thanuskanth19 profile views" />
 </p>
 
 <!-- Tips:
 1) Put your GIF at /assets/thanuskanth.gif (or remove the image block).
-2) Replace {{GITHUB_USERNAME}} everywhere.
-3) Update links/logos in /logos/ or use CDN links.
+2) Ensure /logos/ icons exist or swap to CDN equivalents.
 -->
