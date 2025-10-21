@@ -7,7 +7,7 @@
 ---
 
 🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision for Robotics</strong><br/>
-🔧 Recent work: <strong>ESP32 Weather Indicator (1-min uploads), Line-Following Robot (ATmega328P + L298N + 3× IR)</strong>
+🔧 Recent work: <strong>ESP32 Weather Indicator (1-min uploads) <br/>Line-Following Robot (ATmega328P + L298N + 3× IR)</strong>
 
 ---
 
