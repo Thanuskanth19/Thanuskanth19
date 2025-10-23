@@ -7,7 +7,7 @@
 ---
 
 🌱 I’m currently learning <strong>ESP-IDF • FreeRTOS • ROS 2 Basics • Computer Vision for Robotics</strong><br/>
-🔧 Recent work: <strong>ESP32 Weather Indicator (1-min uploads) <br/>🚗Line-Following Robot (ATmega328P + L298N + 3× IR)</strong>
+🔧 Recent work:🚗Line-Following Robot (ATmega328P + L298N + 3× IR)</strong>
 
 ---
 
@@ -60,12 +60,14 @@
 
 ---
 
-<h3>📌 Featured Mini-Projects</h3>
+<h3>📌 Projects</h3>
 
 - <strong>Solar Phone Charging Hub (DI)</strong> — Portable 10–20 W PV panel, MPPT buck, 2S/3S 18650 pack + BMS, 5 V/9 V USB outputs, enclosure in KiCad + 3D print; optional ESP32 telemetry (voltage, current, SOC) to web dashboard.  
   <em>Repo:</em> <a href="https://github.com/Thanuskanth19/solar-phone-charger-tracker">Thanuskanth19/solar-phone-charging-hub</a> <!-- update if different -->
 - <strong>Line-Following Robot</strong> — ATmega328P • L298N • 3× IR array • PID tune notes.  
   <em>Repo:</em> <a href="https://github.com/Thanuskanth19/Linefollowing-robot-and-obstacle-detection.">Thanuskanth19/Linefollowing-robot-and-obstacle-detection</a> <!-- update if different -->
+- <strong>AdvanceCalculater-CSharp-WinForms</strong> — C# . .NET WinForms . Visual Studio.  
+  <em>Repo:</em> <a href="https://github.com/Thanuskanth19/AdvanceCalculater-CSharp-WinForms">Thanuskanth19/AdvanceCalculater-CSharp-WinForms</a> <!-- update if different -->
 
 ---
 
